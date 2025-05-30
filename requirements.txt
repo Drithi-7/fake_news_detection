@@ -11,7 +11,7 @@ gitdb==4.0.12
 GitPython==3.1.44
 idna==3.10
 Jinja2==3.1.6
-joblib @ file:///C:/b/abs_f4b98l6lgk/croot/joblib_1718217224240/work
+joblib 
 jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
 MarkupSafe==3.0.2
