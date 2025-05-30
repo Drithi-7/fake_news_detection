@@ -20,19 +20,19 @@ mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
 mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
 narwhals==1.41.0
 numexpr @ file:///C:/b/abs_05o8p7bfml/croot/numexpr_1730215959182/work
-numpy @ file:///C:/b/abs_0123vcxhf8/croot/numpy_and_numpy_base_1725470331966/work/dist/numpy-2.0.1-cp311-cp311-win_amd64.whl#sha256=46eb5850478cda64bda6d2f2d3d6ad8ceeb7cc168b83532e4f9dbbcb42e22ab2
+numpy 
 packaging==24.2
-pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp311-cp311-win_amd64.whl#sha256=3a9ed5b5006a5fad640788cd8385485f98b18ac6ff9294cb25b18f3931fed352
+pandas 
 pillow==11.2.1
 protobuf==6.31.0
 pyarrow==20.0.0
 pydeck==0.9.1
-python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+python-dateutil 
 pytz @ file:///C:/b/abs_6ap4tsz1ox/croot/pytz_1713974360290/work
 referencing==0.36.2
 requests==2.32.3
 rpds-py==0.25.1
-scikit-learn @ file:///C:/b/abs_0dwalqot3o/croot/scikit-learn_1737988780693/work/dist/scikit_learn-1.6.1-cp311-cp311-win_amd64.whl#sha256=3831d50149a042d5cbe4e92ee145cdf4609ae45b590b405ff3ae763be11d9fd5
+scikit-learn 
 scipy @ file:///C:/b/abs_71q96u23a4/croot/scipy_1747238057723/work/dist/scipy-1.15.3-cp311-cp311-win_amd64.whl#sha256=e97cf787b83d731961f10b375942b1e2252eefccbd4e82367c41222f0a72ee9a
 six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
 smmap==5.0.2
